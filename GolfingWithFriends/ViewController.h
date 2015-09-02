@@ -14,3 +14,4 @@
 
 @end
 
+#warning maybe add some pop ups that say "Alan is ahead of Robert and Doug by X amount."
