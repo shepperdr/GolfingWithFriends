@@ -517,6 +517,7 @@
 				914AD68A1B97BC80006C234A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		914AD68B1B97BC80006C234A /* Build configuration list for PBXNativeTarget "GolfingWithFriendsTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +526,7 @@
 				914AD68D1B97BC80006C234A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		914AD68E1B97BC80006C234A /* Build configuration list for PBXNativeTarget "GolfingWithFriendsUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +535,7 @@
 				914AD6901B97BC80006C234A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

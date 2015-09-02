@@ -28,7 +28,7 @@ static NSString * const PlayerCellKey = @"playerCell";
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    self.title = @"Golf Bet Tracker";
+    self.title = @"Friendly Wager Tracker";
     
     self.playerController = [PlayerController new];
     
